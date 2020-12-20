@@ -1,0 +1,42 @@
+
+#loginForm{
+    width: 400px;
+    height: 500px;
+    background-color: #399cec80;
+    margin-left: 70%;
+    padding-top: 0px;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
+#phone,
+#password1,
+#password2
+{
+    width: 260px;
+    height: 23px;
+}
+
+#checkCode
+{
+    width: 160px;
+    height: 23px;
+}
+
+#getCheckCode
+{
+    width: 95px;
+    height: 28px;
+    vertical-align: middle;
+}
+
+#register
+{
+    width: 270px;
+    height: 30px;
+    background-color: orange;
+}
+
+#login
+{
+    text-indent: 210px;
+}

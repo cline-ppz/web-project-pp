@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="zhuce:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75eed15e-acf0-4014-8098-e975822a237d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\下载app\Maven\repository" />
+        <option name="mavenHome" value="D:/下载app/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\下载app\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lpzh78nutBVdTNCuWOJdriPfz0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\web课设\zhuce\web\css" />
+      <recent name="D:\Desktop\web课设\zhuce\web" />
+      <recent name="D:\Desktop\web课设\zhuce\web\images" />
+      <recent name="D:\Desktop\web课设\zhuce\web\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/zhuce/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="zhuce:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/zhuce" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_zhuce_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61055" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="zhuce:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75eed15e-acf0-4014-8098-e975822a237d" name="Default Changelist" comment="" />
+      <created>1608308936569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608308936569</updated>
+      <workItem from="1608308942074" duration="19918000" />
+      <workItem from="1608374503415" duration="7045000" />
+      <workItem from="1608439210833" duration="1008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608356827272">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608356827272" />
+    <state x="574" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1608359035270">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608359035270" />
+    <state x="360" y="75" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1608356781885">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="360" y="75" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1608356781885" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608357128284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1608357128284" />
+    <state x="544" y="122" key="DetectedRootsChooserDialog" timestamp="1608310178973">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="544" y="122" key="DetectedRootsChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1608310178973" />
+    <state x="543" y="142" key="FileChooserDialogImpl" timestamp="1608428185633">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="543" y="142" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608428185633" />
+    <state width="1055" height="-12" key="GridCell.Tab.0.bottom" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.0.center" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.0.left" timestamp="1608439072751">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608439072751" />
+    <state width="1055" height="-12" key="GridCell.Tab.0.right" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.1.bottom" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.1.center" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.1.left" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.1.right" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.2.bottom" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.2.center" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.2.left" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state width="1055" height="-12" key="GridCell.Tab.2.right" timestamp="1608439072752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1055" height="-12" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1608439072752" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1608375903358">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608375903358" />
+  </component>
+</project>
